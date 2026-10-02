@@ -1,6 +1,6 @@
 # FTC Coaxial Swerve Drive
 ## About
-This repository contains my code and CAD for a competition-used swerve drive for First Tech Challenge. 
+This repository contains my [code](SwerveCode/) and [CAD](CAD/) for a competition-used swerve drive for First Tech Challenge. 
 Each wheel has 2 motors controlling it. 
 - An Axon Mini Mk2 controlls the heading of the wheel
 - A Gobilda YellowJacket 1,150 RPM Motor controls the actual wheel rotation
